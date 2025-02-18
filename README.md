@@ -69,5 +69,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 A dynamic online shopping platform powered by Laravel and React, designed to offer an improved and interactive user experience.
 
-https://raw.githubusercontent.com/meherab23/bigbazaar-master/master/public/images/view_products.png
-![View Products](images/view_products.png)
+1. https://raw.githubusercontent.com/meherab23/bigbazaar-master/master/public/images/login_page.png
+2. https://raw.githubusercontent.com/meherab23/bigbazaar-master/master/public/images/dashboard.png
+3. https://raw.githubusercontent.com/meherab23/bigbazaar-master/master/public/images/add_products.png
+4. https://raw.githubusercontent.com/meherab23/bigbazaar-master/master/public/images/view_products.png
+
