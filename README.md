@@ -69,7 +69,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 A dynamic online shopping platform powered by Laravel and React, designed to offer an improved and interactive user experience.
 
-![Login Page](https://raw.githubusercontent.com/your-username/your-repo/main/public/images/login_page.png)
+<img src="{{ asset('images/login_page.png') }}" alt="Login Page">
+<img src="{{ asset('images/dashboard.png') }}" alt="Dashboard">
+<img src="{{ asset('images/add_products.png') }}" alt="Add Products">
+<img src="{{ asset('images/view_products.png') }}" alt="View Products">
+
 
 
 
